@@ -4,4 +4,5 @@
 # Git is free software distributed under the GPL.
 # Hi, Lin wei is studying Git .
 # Best wishes for him. Geat Job
+# My clever boss asked me to check my income.
 
