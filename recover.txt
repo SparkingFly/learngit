@@ -1,5 +1,4 @@
 # File Name "recover.txt"
-# Author: linwei8602@sina.com
 # Date: 2019-07-21
 # Hi Everybody it's just for test
 
